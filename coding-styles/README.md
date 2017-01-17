@@ -1,7 +1,8 @@
 # Coding Styles
 
-This directory contains the preferred coding styles for different IDEs. The coding styles reflect
-the following guidelines:
+This directory contains the preferred coding styles for different IDEs. The coding style is
+designed to improve readability and understandability by reduce the appearance of 
+"compressed" code.
 
 ## Spacing
 
