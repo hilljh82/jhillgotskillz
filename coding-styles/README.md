@@ -5,7 +5,7 @@ designed to improve readability and understandability by reduce the appearance o
 "compressed" code. It is also designed to reduce the amount of horizontal scrolling required
 to see a complete line of code.
 
-## Whitespaces
+## Spacing and Lines
 
 ### Tabs
 
@@ -15,7 +15,9 @@ Tabs must be replaced by spaces, unless the programming language requires tabs.
 
 Spaces must be kept to 2 spaces.
 
-## Character Count
+### Character Count
+
+Line count should be kept to 100 characters.
 
 ## Spacing
 
